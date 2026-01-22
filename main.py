@@ -20,7 +20,7 @@ def main():
     sorted_list_of_char_dict = list_of_char_dict(character_count)
 
     #printing report
-    print("============ BOOK-ANALYSIS-BOT ============")
+    print("============ TEXT-ANALYSIS-BOT ============")
     print(f"Analyzing book found at ${PATH_TO_BOOK}")
     print("----------- Word Count ----------")
     print(f"Found {word_count} total words")
